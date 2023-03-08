@@ -43,7 +43,7 @@
       <span></span>
       <span></span>
       <span></span>
-      Submit
+      <button type="submit">Se connecter</button>
     </a>
   </form>
   <p>Don't have an account? <a href="./register.php" class="a2">Sign up!</a></p>

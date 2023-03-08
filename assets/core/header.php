@@ -21,7 +21,7 @@
             <div class="collapse navbar-collapse justify-content-md-center" id="navbarsExample10">
               <ul class="navbar-nav">
                 <li class="nav-item">
-                  <a class="nav-link active" aria-current="page" href="#">Accueil</a>
+                  <a class="nav-link active" aria-current="page" href="../../index.php">Home</a>
                 </li>
                 <li class="nav-item">
                   <a class="nav-link" href="../../register.php">Register</a>
